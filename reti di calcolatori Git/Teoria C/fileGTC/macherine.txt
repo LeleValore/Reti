@@ -1,0 +1,3 @@
+Nome=[lele], Numero=[3]
+Nome=[lele], Numero=[8]
+Nome=[alfio], Numero=[7]
